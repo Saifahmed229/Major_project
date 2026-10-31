@@ -1,0 +1,9 @@
+exam_id,subject_id,slot_id,exam_date,slot_name,start_time,end_time,duration_minutes,exam_type
+EX001,CS601,S03,2026-09-02,Morning,09:00,12:00,180,Normal
+EX006,AI602,S03,2026-09-02,Morning,09:00,12:00,180,Normal
+EX002,CS602,S06,2026-09-03,Afternoon,14:00,17:00,180,Normal
+EX005,AI601,S06,2026-09-03,Afternoon,14:00,17:00,180,Normal
+EX004,CS604,S07,2026-09-04,Morning,09:00,12:00,180,Normal
+EX007,AI603,S07,2026-09-04,Morning,09:00,12:00,180,Normal
+EX003,CS603,S08,2026-09-04,Afternoon,14:00,17:00,180,Normal
+EX008,AI604,S08,2026-09-04,Afternoon,14:00,17:00,180,Normal

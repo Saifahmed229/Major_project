@@ -1,0 +1,17 @@
+faculty_id,faculty_name,department,max_duties,preferred_max_consecutive
+F001,Faculty_01,CSE,4,1
+F002,Faculty_02,CSE,4,1
+F003,Faculty_03,CSE,4,1
+F004,Faculty_04,CSE,4,1
+F005,Faculty_05,CSE,4,1
+F006,Faculty_06,CSE,4,1
+F007,Faculty_07,CSE,4,1
+F008,Faculty_08,CSE,4,1
+F009,Faculty_09,AIML,4,1
+F010,Faculty_10,AIML,4,1
+F011,Faculty_11,AIML,4,1
+F012,Faculty_12,AIML,4,1
+F013,Faculty_13,AIML,4,1
+F014,Faculty_14,AIML,4,1
+F015,Faculty_15,AIML,4,1
+F016,Faculty_16,AIML,4,1

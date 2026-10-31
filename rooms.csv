@@ -1,0 +1,9 @@
+room_id,building,capacity,available
+R101,Block-A,30,Yes
+R102,Block-A,30,Yes
+R103,Block-A,40,Yes
+R104,Block-A,40,Yes
+R201,Block-B,50,Yes
+R202,Block-B,50,Yes
+R203,Block-B,60,Yes
+R204,Block-B,60,Yes

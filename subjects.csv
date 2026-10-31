@@ -1,0 +1,9 @@
+subject_id,subject_name,department,semester,duration_hours
+CS601,Machine Learning,CSE,6,3
+CS602,Computer Networks,CSE,6,3
+CS603,Cloud Computing,CSE,6,3
+CS604,Cyber Security,CSE,6,3
+AI601,Deep Learning,AIML,6,3
+AI602,Natural Language Processing,AIML,6,3
+AI603,Computer Vision,AIML,6,3
+AI604,Data Mining,AIML,6,3
